@@ -1,0 +1,16 @@
+{
+    "name": "leorpg/mvc-php",
+    "description": "Patron de diseño Modelo Vista Controlador con PHP",
+    "autoload": {
+        "psr-4": {
+            "Leorpg\\MvcPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "leorpg21",
+            "email": "leonardoronypologarcia@gmail.com"
+        }
+    ],
+    "require": {}
+}
